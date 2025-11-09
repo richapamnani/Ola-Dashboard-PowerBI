@@ -58,3 +58,5 @@ This dashboard provides:
 * **Customer & Driver Experience Insights:** Understanding reasons for cancellations and correlation between ratings to improve service quality.
 * **Data-Driven Decision Making:** Supports strategic planning for fleet management, marketing campaigns, and service improvements.
 
+## 🔎 Data Exploration & SQL Querie
+(in zip file)
